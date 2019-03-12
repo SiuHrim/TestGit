@@ -8,6 +8,15 @@ namespace Hoc1
 {
     class Program
     {
+        List<Student> listStudent = new List<Student>(){
+            new Student(){
+                ID = 1,
+                Name = "Nguyễn Văn Cường",
+                Class = "16T2",
+                Address ="Thừa Thiên Huế"
+            } 
+        };
+       
         static void Main(string[] args)
         {
         }
