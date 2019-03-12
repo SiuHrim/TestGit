@@ -19,6 +19,8 @@ namespace Hoc1
        
         static void Main(string[] args)
         {
+            System.Console.WriteLine("Tình yêu đầu tiên");
+
         }
     }
 }
