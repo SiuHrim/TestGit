@@ -1,1 +1,6 @@
 c:\users\pc\documents\visual studio 2015\Projects\Hoc1\Hoc1\bin\Debug\Hoc1.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\Hoc1\Hoc1\bin\Debug\Hoc1.exe
+c:\users\pc\documents\visual studio 2015\Projects\Hoc1\Hoc1\bin\Debug\Hoc1.pdb
+c:\users\pc\documents\visual studio 2015\Projects\Hoc1\Hoc1\obj\Debug\Hoc1.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\Hoc1\Hoc1\obj\Debug\Hoc1.exe
+c:\users\pc\documents\visual studio 2015\Projects\Hoc1\Hoc1\obj\Debug\Hoc1.pdb
