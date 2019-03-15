@@ -4,3 +4,10 @@ c:\users\pc\documents\visual studio 2015\Projects\Hoc1\Hoc1\bin\Debug\Hoc1.pdb
 c:\users\pc\documents\visual studio 2015\Projects\Hoc1\Hoc1\obj\Debug\Hoc1.csprojResolveAssemblyReference.cache
 c:\users\pc\documents\visual studio 2015\Projects\Hoc1\Hoc1\obj\Debug\Hoc1.exe
 c:\users\pc\documents\visual studio 2015\Projects\Hoc1\Hoc1\obj\Debug\Hoc1.pdb
+C:\Users\Huy Coc\Desktop\TestGit\Hoc1\bin\Debug\Hoc1.exe.config
+C:\Users\Huy Coc\Desktop\TestGit\Hoc1\bin\Debug\Hoc1.exe
+C:\Users\Huy Coc\Desktop\TestGit\Hoc1\bin\Debug\Hoc1.pdb
+C:\Users\Huy Coc\Desktop\TestGit\Hoc1\obj\Debug\Hoc1.csprojAssemblyReference.cache
+C:\Users\Huy Coc\Desktop\TestGit\Hoc1\obj\Debug\Hoc1.csproj.CoreCompileInputs.cache
+C:\Users\Huy Coc\Desktop\TestGit\Hoc1\obj\Debug\Hoc1.exe
+C:\Users\Huy Coc\Desktop\TestGit\Hoc1\obj\Debug\Hoc1.pdb

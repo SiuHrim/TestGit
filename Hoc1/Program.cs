@@ -8,19 +8,25 @@ namespace Hoc1
 {
     class Program
     {
-        List<Student> listStudent = new List<Student>(){
-            new Student(){
-                ID = 1,
-                Name = "Nguyễn Văn Cường",
-                Class = "16T2",
-                Address ="Thừa Thiên Huế"
-            } 
-        };
-       
         static void Main(string[] args)
         {
-            System.Console.WriteLine("Tình yêu đầu tiên");
+            int namHTai = DateTime.Now.Year;
+            int namSinh = 0;
 
+            int tuoi = 0;
+
+            Console.WriteLine("Ngày đầu tiên ra đời :");
+            namSinh = int.Parse(Console.ReadLine());
+            if (namSinh > 0 && namSinh == namHTai)
+            {
+                tuoi = namHTai - namSinh;
+                Console.WriteLine("Tuổi của bạn là :{0}",tuoi);
+            }
+            else
+            {
+                Console.WriteLine("Xem lại");
+            }
+            Console.ReadLine();
         }
     }
 }
